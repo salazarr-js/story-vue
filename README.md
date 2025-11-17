@@ -1,4 +1,4 @@
-# 📚 Story Vue
+# 🎛️ Story Vue
 
 Simple `Vue` + `Storybook` setup demo
 
