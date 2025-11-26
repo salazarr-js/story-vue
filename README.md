@@ -1,6 +1,6 @@
 # 🎛️ Story Vue
 
-Accessible Vue UI components documented with Storybook
+Accessible Vue components documented with Storybook
 
 ## Tech Stack
 
