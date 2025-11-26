@@ -13,10 +13,12 @@ Accessible Vue UI components documented with Storybook
 
 ## Components
 
+- [ ] Icon 
 - [ ] Button 
 - [ ] Modal/Dialog
 - [ ] Accordion
 - [ ] Select
+- [ ] Input
 
 ## Tools
 - https://tailwindcss.com/
@@ -33,7 +35,7 @@ Accessible Vue UI components documented with Storybook
 - Concepts
   - `WAI-ARIA`
 
-## Vue
+### Vue
 - https://vuejs.org/guide/best-practices/accessibility
 
 ### Storybook
@@ -41,4 +43,3 @@ Accessible Vue UI components documented with Storybook
 - https://storybook.js.org/tutorials/intro-to-storybook/vue/en/get-started/
 - https://www.vuemastery.com/conferences/vueconf-us-2018/a-short-synopsis-of-vue-storybook-peter-finn
 - https://blog.logrocket.com/getting-started-storybook-vue-3/
-
